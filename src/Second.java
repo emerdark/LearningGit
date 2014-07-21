@@ -12,4 +12,8 @@ public class Second {
 	void Second1(){
 		System.out.println("Nothing at all");
 	}
+	
+	void Second2(){
+		System.out.println("The Committer");
+	}
 }
